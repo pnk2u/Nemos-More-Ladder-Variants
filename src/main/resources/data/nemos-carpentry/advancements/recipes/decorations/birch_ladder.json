@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_birch_stick": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "mstv-base:birch_stick"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "nemos-carpentry:birch_ladder"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_birch_stick"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "nemos-carpentry:birch_ladder"
+    ]
+  }
+}

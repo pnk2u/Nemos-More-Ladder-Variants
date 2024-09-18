@@ -1,0 +1,7 @@
+{
+  "parent": "nemos-carpentry:block/ladders/ladder",
+  "textures": {
+    "particle": "nemos-carpentry:block/bound_bamboo_ladder",
+    "texture": "nemos-carpentry:block/bound_bamboo_ladder"
+  }
+}
