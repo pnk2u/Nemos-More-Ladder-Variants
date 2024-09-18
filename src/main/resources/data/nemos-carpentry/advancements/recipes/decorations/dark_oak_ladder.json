@@ -6,7 +6,7 @@
       "conditions": {
         "items": [
           {
-            "items": "mstv-base:dark_oak_stick"
+            "items": ["mstv-base:dark_oak_stick"]
           }
         ]
       }
