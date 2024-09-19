@@ -1,0 +1,74 @@
+{
+  "values": [
+    {
+      "structures": "#quad:is/birch",
+      "block_replacement": {
+        "targets": "minecraft:ladder",
+        "replacement": "nemos-carpentry:birch_ladder"
+      }
+    },
+    {
+      "structures": "#quad:is/spruce",
+      "block_replacement": {
+        "targets": "minecraft:ladder",
+        "replacement": "nemos-carpentry:spruce_ladder"
+      }
+    },
+    {
+      "structures": "#quad:is/dark_oak",
+      "block_replacement": {
+        "targets": "minecraft:ladder",
+        "replacement": "nemos-carpentry:dark_oak_ladder"
+      }
+    },
+    {
+      "structures": "#quad:is/jungle",
+      "block_replacement": {
+        "targets": "minecraft:ladder",
+        "replacement": "nemos-carpentry:jungle_ladder"
+      }
+    },
+    {
+      "structures": "#quad:is/acacia",
+      "block_replacement": {
+        "targets": "minecraft:ladder",
+        "replacement": "nemos-carpentry:acacia_ladder"
+      }
+    },
+    {
+      "structures": "#quad:is/mangrove",
+      "block_replacement": {
+        "targets": "minecraft:ladder",
+        "replacement": "nemos-carpentry:mangrove_ladder"
+      }
+    },
+    {
+      "structures": "#quad:is/cherry",
+      "block_replacement": {
+        "targets": "minecraft:ladder",
+        "replacement": "nemos-carpentry:cherry_ladder"
+      }
+    },
+    {
+      "structures": "#quad:is/bamboo",
+      "block_replacement": {
+        "targets": "minecraft:ladder",
+        "replacement": "nemos-carpentry:bamboo_ladder"
+      }
+    },
+    {
+      "structures": "#quad:is/crimson",
+      "block_replacement": {
+        "targets": "minecraft:ladder",
+        "replacement": "nemos-carpentry:crimson_ladder"
+      }
+    },
+    {
+      "structures": "#quad:is/warped",
+      "block_replacement": {
+        "targets": "minecraft:ladder",
+        "replacement": "nemos-carpentry:warped_ladder"
+      }
+    }
+  ]
+}
