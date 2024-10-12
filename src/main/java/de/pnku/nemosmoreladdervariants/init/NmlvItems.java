@@ -2,6 +2,8 @@ package de.pnku.nemosmoreladdervariants.init;
 
 import net.fabricmc.fabric.api.itemgroup.v1.ItemGroupEvents;
 import net.minecraft.core.registries.BuiltInRegistries;
+import net.minecraft.core.registries.Registries;
+import net.minecraft.resources.ResourceKey;
 import net.minecraft.world.item.*;
 import net.minecraft.core.Registry;
 import net.minecraft.world.level.block.*;
@@ -13,7 +15,7 @@ import static de.pnku.nemosmoreladdervariants.NemosMoreLadderVariants.isNemosCar
 public class NmlvItems {
     private static Item registerLadderBlockItem(String path, Block ladder) {
         if (isNemosCarpentryLoaded) {return null;}
-        BlockItem ladderItem = new BlockItem(ladder, new Item.Properties());
+        BlockItem ladderItem = new BlockItem(ladder, new Item.Properties().setId(ResourceKey.create(Registries.ITEM, asNemoId(path))));
         ItemGroupEvents.modifyEntriesEvent(CreativeModeTabs.FUNCTIONAL_BLOCKS).register(entries -> entries.addAfter(Items.LADDER, ladderItem));
 
         return Registry.register(BuiltInRegistries.ITEM, asNemoId(path), ladderItem);
