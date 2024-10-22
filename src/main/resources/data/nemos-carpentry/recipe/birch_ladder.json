@@ -3,9 +3,7 @@
   "group": "ladders",
   "category": "misc",
   "key": {
-    "#": {
-      "item": "mstv-base:birch_stick"
-    }
+    "#": "mstv-base:birch_stick"
   },
   "pattern": [
     "# #",

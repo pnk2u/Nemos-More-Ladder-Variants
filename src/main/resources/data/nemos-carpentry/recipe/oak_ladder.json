@@ -3,9 +3,7 @@
   "group": "ladders",
   "category": "misc",
   "key": {
-    "#": {
-      "item": "minecraft:stick"
-    }
+    "#": "minecraft:stick"
   },
   "pattern": [
     "# #",

@@ -3,9 +3,7 @@
   "group": "ladders",
   "category": "misc",
   "key": {
-    "#": {
-      "item": "mstv-base:cherry_stick"
-    }
+    "#": "mstv-base:cherry_stick"
   },
   "pattern": [
     "# #",

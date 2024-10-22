@@ -15,7 +15,7 @@ import static de.pnku.nemosmoreladdervariants.NemosMoreLadderVariants.isNemosCar
 public class NmlvItems {
     private static Item registerLadderBlockItem(String path, Block ladder) {
         if (isNemosCarpentryLoaded) {return null;}
-        BlockItem ladderItem = new BlockItem(ladder, new Item.Properties().setId(ResourceKey.create(Registries.ITEM, asNemoId(path))));
+        BlockItem ladderItem = new BlockItem(ladder, new Item.Properties().setId(ResourceKey.create(Registries.ITEM, BuiltInRegistries.BLOCK.getKey(ladder))).useBlockDescriptionPrefix());
         ItemGroupEvents.modifyEntriesEvent(CreativeModeTabs.FUNCTIONAL_BLOCKS).register(entries -> entries.addAfter(Items.LADDER, ladderItem));
 
         return Registry.register(BuiltInRegistries.ITEM, asNemoId(path), ladderItem);

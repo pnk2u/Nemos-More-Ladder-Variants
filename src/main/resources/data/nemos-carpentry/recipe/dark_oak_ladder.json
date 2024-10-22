@@ -3,9 +3,7 @@
   "group": "ladders",
   "category": "misc",
   "key": {
-    "#": {
-      "item": "mstv-base:dark_oak_stick"
-    }
+    "#": "mstv-base:dark_oak_stick"
   },
   "pattern": [
     "# #",

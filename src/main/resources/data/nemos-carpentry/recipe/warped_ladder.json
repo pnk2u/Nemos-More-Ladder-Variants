@@ -3,9 +3,7 @@
   "group": "ladders",
   "category": "misc",
   "key": {
-    "#": {
-      "item": "mstv-base:warped_stick"
-    }
+    "#": "mstv-base:warped_stick"
   },
   "pattern": [
     "# #",

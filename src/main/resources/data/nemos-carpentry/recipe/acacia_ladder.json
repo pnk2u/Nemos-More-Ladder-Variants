@@ -3,9 +3,7 @@
   "group": "ladders",
   "category": "misc",
   "key": {
-    "#": {
-      "item": "mstv-base:acacia_stick"
-    }
+    "#": "mstv-base:acacia_stick"
   },
   "pattern": [
     "# #",

@@ -3,9 +3,7 @@
   "group": "ladders",
   "category": "misc",
   "key": {
-    "#": {
-      "item": "mstv-base:mangrove_stick"
-    }
+    "#": "mstv-base:mangrove_stick"
   },
   "pattern": [
     "# #",

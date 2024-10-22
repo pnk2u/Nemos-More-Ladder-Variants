@@ -3,9 +3,7 @@
   "group": "ladders",
   "category": "misc",
   "key": {
-    "#": {
-      "item": "mstv-base:jungle_stick"
-    }
+    "#": "mstv-base:jungle_stick"
   },
   "pattern": [
     "# #",
