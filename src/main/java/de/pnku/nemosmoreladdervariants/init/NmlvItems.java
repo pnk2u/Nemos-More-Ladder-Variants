@@ -37,6 +37,8 @@ public class NmlvItems {
 
     public static final Item DARK_OAK_LADDER = registerLadderBlockItem("dark_oak_ladder", NmlvBlocks.DARK_OAK_LADDER);
 
+    public static final Item PALE_OAK_LADDER = registerLadderBlockItem("pale_oak_ladder", NmlvBlocks.PALE_OAK_LADDER);
+
     public static final Item ACACIA_LADDER = registerLadderBlockItem("acacia_ladder", NmlvBlocks.ACACIA_LADDER);
 
     public static final Item JUNGLE_LADDER = registerLadderBlockItem("jungle_ladder", NmlvBlocks.JUNGLE_LADDER);

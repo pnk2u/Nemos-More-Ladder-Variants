@@ -46,6 +46,8 @@ public class NmlvBlocks {
 
     public static final Block DARK_OAK_LADDER = registerLadderBlock("dark_oak_ladder");
 
+    public static final Block PALE_OAK_LADDER = registerLadderBlock("pale_oak_ladder");
+
     public static final Block ACACIA_LADDER = registerLadderBlock("acacia_ladder");
 
     public static final Block JUNGLE_LADDER = registerLadderBlock("jungle_ladder");
