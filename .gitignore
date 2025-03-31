@@ -5,3 +5,5 @@
 build/
 res/
 run/
+*_local.*
+[[]*[]]/
