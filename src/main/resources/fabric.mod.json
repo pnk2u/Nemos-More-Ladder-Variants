@@ -5,11 +5,11 @@
   "name": "${mod_name}",
   "description": "${mod_description}",
   "authors": [
-    "NemoNotFound",
+    "DevNemo",
 	"pnku"
   ],
   "contact": {
-    "homepage": "https://pnku.de",
+    "homepage": "https://www.pnku.de",
     "email": "contact@pnku.de",
     "sources": "https://github.com/pnk2u/Nemos-More-Ladder-Variants",
     "issues": "https://github.com/pnk2u/Nemos-More-Ladder-Variants/issues"
@@ -26,8 +26,8 @@
     ]
   },
   "depends": {
-		"fabricloader": "~${loader_version}",
-		"minecraft": [">=${minecraft_version} <${nearest_mod_mcversion}"],
+        "fabricloader": ">${loader_version}",
+        "minecraft": [">=${minecraft_version_0} <${minecraft_version_1}"],
 		"java": ">=17",
 		"fabric-api": "*",
 		"mstv-base": ">=${mstv_version}"
@@ -35,8 +35,16 @@
   "custom": {
     "modmenu": {
       "links": {
-        "modmenu.discord": "https://discord.com/invite/yxs9dga"
+        "modmenu.discord": "https://dsc.lieonlion.dev"
       }
+    },
+    "mc-publish": {
+      "modrinth": "5fsOIs5O",
+      "curseforge": "1105456",
+      "dependencies": [
+        "fabric-api(required)#(ignore)",
+        "mstv-base(required){modrinth:ZVv4e6pP}{curseforge:1096913}"
+      ]
     }
   }
 }

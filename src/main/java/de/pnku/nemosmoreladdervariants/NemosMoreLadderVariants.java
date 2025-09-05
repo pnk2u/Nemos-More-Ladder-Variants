@@ -29,7 +29,7 @@ public class NemosMoreLadderVariants implements ModInitializer {
 	}
 
 	public static ResourceLocation asNemoId(String path) {
-		return new ResourceLocation(NEMOS_MOD_ID, path);
+		return ResourceLocation.fromNamespaceAndPath(NEMOS_MOD_ID, path);
 	}
 
 }
