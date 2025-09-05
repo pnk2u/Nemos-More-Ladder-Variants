@@ -38,7 +38,8 @@ Want to help translate? Feel free to open a PR to the **default branch (`1.21(.1
 ### 1.0.2:
 - `1.20.1`, `1.20.4`: Fix incorrect Java version dependency
 ### 1.0.1:
-- Group ladder recipes in the recipe book<!--CHANGELOG:END-->
+- Group ladder recipes in the recipe book
+<!--CHANGELOG:END-->
 > _`The section above is automatically updated with each new release and only includes already published releases.`_
 ---
 #### Support/Contact
