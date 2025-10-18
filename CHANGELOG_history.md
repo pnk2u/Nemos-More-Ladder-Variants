@@ -8,7 +8,7 @@
 ### 1.0.4:
 - `1.21.4`:
     - Update to 1.21.4
-    - Add Pale Oak Ladder (from Nemo's Carpentry `1.5.3 - 1.21.4`)
+    - Add Pale Oak Ladder (from Nemoʼs Carpentry `1.5.3 - 1.21.4`)
 ### 1.0.3:
 - Add a separate "Oak Ladder" recipe to prevent issues due to the base game's recipe getting overwritten by other mods
 - `1.21.2`, `1.21.3`: Update to 1.21.2, 1.21.3
