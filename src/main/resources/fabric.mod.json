@@ -2,10 +2,10 @@
   "schemaVersion": 1,
   "id": "${mod_id}",
   "version": "${mod_version}",
-  "name": "${mod_name}",
-  "description": "${mod_description}",
+  "name": "Nemoʼs More Ladder Variants (MStV+)",
+  "description": "This mod adds the variants of the Ladder item from the mod <Nemoʼs Carpentry> as a standalone mod.",
   "authors": [
-    "DevNemo",
+    "NemoNotFound",
 	"pnku"
   ],
   "contact": {
@@ -26,7 +26,7 @@
     ]
   },
   "depends": {
-        "fabricloader": ">${loader_version}",
+        "fabricloader": ">=${loader_version}",
         "minecraft": [">=${minecraft_version_0} <${minecraft_version_1}"],
 		"java": ">=21",
 		"fabric-api": "*",
@@ -35,7 +35,7 @@
   "custom": {
     "modmenu": {
       "links": {
-        "modmenu.discord": "https://dsc.lieonlion.dev"
+        "modmenu.discord": "https://discord.lieonlion.dev"
       }
     },
     "mc-publish": {
