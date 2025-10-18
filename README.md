@@ -1,7 +1,7 @@
-# <img width='24' src="./src/main/resources/icon.png"> More Ladder Variants
+# <img width='24' src="./src/main/resources/icon.png"> Nemoʼs More Ladder Variants
 > ![Mod Icon](https://raw.githubusercontent.com/pnk2u/resources/main/ModProjects/Nemos-More-Ladder-Variants/pres/logo/logo_c.png)
 >
-> A simple mod adding wood variants for Minecraft's Ladder Block as a standalone version from the Ladder variants added by [Nemo's Carpentry](https://www.modrinth.com/mod/nemos-carpentry).
+> A simple mod adding wood variants for Minecraft's Ladder Block as a standalone version from the Ladder variants added by [Nemoʼs Carpentry](https://www.modrinth.com/mod/nemos-carpentry).
 
 ### Compatibility
 
@@ -14,7 +14,7 @@
 Currently available in:
 - English
 - German
-- French (@Peperehobbits01 with PR #2, added in `1.0.7`)
+- French (@Peperehobbits01 with [PR #2](../../pull/2), added in [`1.0.7`](../../#107))
 
 Want to help translate? Feel free to open a PR to the **default branch (`1.21(.1)`)**.
 
@@ -31,7 +31,7 @@ Want to help translate? Feel free to open a PR to the **default branch (`1.21(.1
 ### 1.0.4:
 - `1.21.4`:
     - Update to 1.21.4
-    - Add Pale Oak Ladder (from Nemo's Carpentry `1.5.3 - 1.21.4`)
+    - Add Pale Oak Ladder (from Nemoʼs Carpentry `1.5.3 - 1.21.4`)
 ### 1.0.3:
 - Add a separate "Oak Ladder" recipe to prevent issues due to the base game's recipe getting overwritten by other mods
 - `1.21.2`, `1.21.3`: Update to 1.21.2, 1.21.3
