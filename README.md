@@ -14,7 +14,7 @@
 Currently available in:
 - English
 - German
-- French (@Peperehobbits01 with PR #2, added in `1.0.7`)
+- French (@Peperehobbits01 with [PR #2](../../pull/2), added in [`1.0.7`](../../#107))
 
 Want to help translate? Feel free to open a PR to the **default branch (`1.21(.1)`)**.
 
