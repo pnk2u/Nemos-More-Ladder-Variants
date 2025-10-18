@@ -1,3 +1,5 @@
+### 1.0.8:
+- Fix `1.0.7`'s fabric loader compatibility (0.17.x) not including 0.17.0 itself
 ### 1.0.7:
 - Fix incompatibility with 0.17.x versions of Fabric Loader
 - Reduced most textures file sizes by over 90% through better compression
