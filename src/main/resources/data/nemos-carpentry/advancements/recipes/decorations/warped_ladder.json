@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:recipes/root",
   "criteria": {
-    "has_spruce_stick": {
+    "has_warped_stick": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
