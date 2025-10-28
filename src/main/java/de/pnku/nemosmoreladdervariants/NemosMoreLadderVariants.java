@@ -14,13 +14,14 @@ public class NemosMoreLadderVariants implements ModInitializer {
 
 	public static final String MOD_ID = "nemos-moreladdervariants";
 	public static final String NEMOS_MOD_ID = "nemos-carpentry";
+	public static final String NEMOS_MOD_ID_ALT = "nemos_carpentry";
 	public static final Logger LOGGER = LoggerFactory.getLogger(MOD_ID);
 	public static Boolean isNemosCarpentryLoaded = false;
 	
 	@Override
 	public void onInitialize() {
-		if (FabricLoader.getInstance().isModLoaded(NEMOS_MOD_ID)) {
-		isNemosCarpentryLoaded = true;
+		if (FabricLoader.getInstance().isModLoaded(NEMOS_MOD_ID) || FabricLoader.getInstance().isModLoaded(NEMOS_MOD_ID_ALT)) {
+			isNemosCarpentryLoaded = true;
 		}
 		if (!isNemosCarpentryLoaded) {
 		NmlvBlocks.register();
