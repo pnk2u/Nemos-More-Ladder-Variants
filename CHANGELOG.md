@@ -1,4 +1,4 @@
-<!--publish=false-->
+<!--publish=true-->
 ### 1.0.9:
 - `1.20.1`: 
   - Fix broken Ladder recipes (all variants including the _**Oak** Ladder_ (vanilla))
