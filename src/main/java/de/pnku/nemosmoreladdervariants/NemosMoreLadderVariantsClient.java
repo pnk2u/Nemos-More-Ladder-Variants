@@ -5,7 +5,6 @@ import net.fabricmc.api.ClientModInitializer;
 import net.fabricmc.api.EnvType;
 import net.fabricmc.api.Environment;
 import net.fabricmc.loader.api.FabricLoader;
-import net.minecraft.client.renderer.RenderType;
 import net.minecraft.world.level.block.Block;
 
 import static de.pnku.nemosmoreladdervariants.NemosMoreLadderVariants.isNemosCarpentryLoaded;
@@ -28,8 +27,9 @@ public class NemosMoreLadderVariantsClient implements ClientModInitializer {
     private void legacyAddToRenderLayerMap(Block block) {
         try {
             Class<?> legacyBlockRenderLayerMap = Class.forName("net.fabricmc.fabric.api.blockrenderlayer.v1.BlockRenderLayerMap");
-            legacyBlockRenderLayerMap.getMethod("putBlock", Block.class, RenderType.class)
-                    .invoke(legacyBlockRenderLayerMap.getField("INSTANCE").get(null), block, RenderType.cutout());
+            Class<?> renderTypeClass = Class.forName("net.minecraft.class_1921");
+            legacyBlockRenderLayerMap.getMethod("putBlock", Block.class, renderTypeClass)
+                    .invoke(legacyBlockRenderLayerMap.getField("INSTANCE").get(null), block, renderTypeClass.getMethod("method_23581").invoke(null));
         } catch (Exception e) {
             e.printStackTrace();
         }

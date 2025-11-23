@@ -5,7 +5,7 @@ import de.pnku.nemosmoreladdervariants.init.NmlvItems;
 import net.fabricmc.api.ModInitializer;
 
 import net.fabricmc.loader.api.FabricLoader;
-import net.minecraft.resources.ResourceLocation;
+import net.minecraft.resources.Identifier;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -29,8 +29,8 @@ public class NemosMoreLadderVariants implements ModInitializer {
 		}
 	}
 
-	public static ResourceLocation asNemoId(String path) {
-		return ResourceLocation.fromNamespaceAndPath(NEMOS_MOD_ID, path);
+	public static Identifier asNemoId(String path) {
+		return Identifier.fromNamespaceAndPath(NEMOS_MOD_ID, path);
 	}
 
 }
