@@ -1,7 +1,7 @@
 <a name="nemos-more-ladder-variants"></a>
 # <img height='48' align=right src="./src/main/resources/icon.png"> <p align="center">&emsp;&emsp;&emsp; Nemo’s More Ladder Variants <sub><a title="Nemo’s More Ladder Variants on Modrinth" href="https://www.modrinth.com/mod/nemos-more-ladder-variants"><img width="40" src="https://img.shields.io/badge/-%20-%230f91?style=flat&logo=modrinth"></a></sub> <a title="Nemo’s More Ladder Variants on Curseforge" href="https://www.curseforge.com/minecraft/mc-mods/nemos-more-ladder-variants"><sub><img width="40" src="https://img.shields.io/badge/--%23f062?style=flat&logo=curseforge"></sub></a> </p>
 > <img align=left height="153" src="https://raw.githubusercontent.com/pnk2u/resources/main/ModProjects/Nemos-More-Ladder-Variants/pres/logo/logo_c.png">  
->  A mod adding wood variants for Minecraft's Ladder. <br><br><br><br>  
+>  A simple mod adding wood variants for Minecraft's Ladder Block as a standalone version from the Ladder variants added by <a href="https://www.modrinth.com/mod/nemos-carpentry">Nemoʼs Carpentry</a>. <br><br><br><br>  
 >  <details><summary><h5>Show in-game example image</h5></summary><br><img src="https://raw.githubusercontent.com/pnk2u/resources/main/ModProjects/Nemos-More-Ladder-Variants/pres/mr_desc_banner.png"><sup><br><!--CAPTION:PLACEHOLDER--></sup></details>  
 <br>  
 
