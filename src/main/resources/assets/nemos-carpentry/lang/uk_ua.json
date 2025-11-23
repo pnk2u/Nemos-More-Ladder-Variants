@@ -1,0 +1,15 @@
+{
+  "block.nemos-carpentry.acacia_ladder": "Акацієва драбина",
+  "block.nemos-carpentry.bamboo_ladder": "Бамбукова драбина",
+  "block.nemos-carpentry.birch_ladder": "Березова драбина",
+  "block.nemos-carpentry.bound_bamboo_ladder": "Плетена бамбукова драбина",
+  "block.nemos-carpentry.cherry_ladder": "Вишнева драбина",
+  "block.nemos-carpentry.crimson_ladder": "Багряна драбина",
+  "block.nemos-carpentry.dark_oak_ladder": "Темно-дубова драбина",
+  "block.nemos-carpentry.pale_oak_ladder": "Блідо-дубова драбина",
+  "block.nemos-carpentry.jungle_ladder": "Тропічна драбина",
+  "block.nemos-carpentry.mangrove_ladder": "Мангрова драбина",
+  "block.nemos-carpentry.spruce_ladder": "Смерекова драбина",
+  "block.nemos-carpentry.warped_ladder": "Химерна драбина",
+  "modmenu.descriptionTranslation.nemos-moreladdervariants": "Додає варіанти драбини з «Nemoʼs Carpentry»."
+}
