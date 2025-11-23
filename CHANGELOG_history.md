@@ -1,6 +1,7 @@
 <a name="1.0.10"></a>
 ### 1.0.10:
 - Add Ukrainian translation (Thanks to @[StarmanMine142](https://www.github.com/StarmanMine142))
+- `1.21.4(-11)`: Update to <ins>1.21.11</ins>
 
 <h2><sub><sub><sup><ins>Download 1.0.10 + 1.21.4(-11)</ins>:</sup>&#x200A;
 <a title="Download (Modrinth):&#10;Nemoʼs More Ladder Variants 1.0.10 + 1.21.4(-11)" href="https://www.modrinth.com/mod/5fsOIs5O/version/9WCGgpHJ">
