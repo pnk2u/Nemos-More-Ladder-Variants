@@ -1,56 +1,90 @@
-# <img width='24' src="./src/main/resources/icon.png"> Nemoʼs More Ladder Variants
-> ![Mod Icon](https://raw.githubusercontent.com/pnk2u/resources/main/ModProjects/Nemos-More-Ladder-Variants/pres/logo/logo_c.png)
->
-> A simple mod adding wood variants for Minecraft's Ladder Block as a standalone version from the Ladder variants added by [Nemoʼs Carpentry](https://www.modrinth.com/mod/nemos-carpentry).
+<a name="nemos-more-ladder-variants"></a>
+# <img height='48' align=right src="./src/main/resources/icon.png"> <p align="center">&emsp;&emsp;&emsp; Nemo’s More Ladder Variants <sub><a title="Nemo’s More Ladder Variants on Modrinth" href="https://www.modrinth.com/mod/nemos-more-ladder-variants"><img width="40" src="https://img.shields.io/badge/-%20-%230f91?style=flat&logo=modrinth"></a></sub> <a title="Nemo’s More Ladder Variants on Curseforge" href="https://www.curseforge.com/minecraft/mc-mods/nemos-more-ladder-variants"><sub><img width="40" src="https://img.shields.io/badge/--%23f062?style=flat&logo=curseforge"></sub></a> </p>
+> <img align=left height="153" src="https://raw.githubusercontent.com/pnk2u/resources/main/ModProjects/Nemos-More-Ladder-Variants/pres/logo/logo_c.png">  
+>  A mod adding wood variants for Minecraft's Ladder. <br><br><br><br>  
+>  <details><summary><h5>Show in-game example image</h5></summary><br><img src="https://raw.githubusercontent.com/pnk2u/resources/main/ModProjects/Nemos-More-Ladder-Variants/pres/mr_desc_banner.png"><sup><br><!--CAPTION:PLACEHOLDER--></sup></details>  
+<br>  
 
-### Compatibility
+<a name="compatibility"></a>
+### <img height="24" align="left" src="https://raw.githubusercontent.com/pnk2u/resources/main/ModProjects/shared/pres/icon/puzzle.svg"> Compatibility
 
-- Minecraft: `1.20.1`, `1.21(.1)`, `1.21.4`~`1.21.10`
-- Mod Loader: _Fabric_
-- Requires: [`Fabric API`](https://modrinth.com/mod/fabric-api), [<img width='16' src="https://raw.githubusercontent.com/pnk2u/resources/main/ModProjects/More-Stick-Variants/pres/logo/logo_c.png"> `More Stick Variants (MStV)`](https://modrinth.com/mod/more-stick-variants)
+<table>
+  <thead>
+    <tr>
+      <td><strong>Minecraft</strong></td>
+      <td>
+        <a href="https://modrinth.com/mod/nemos-more-ladder-variants/versions?g=1.20.1"><code>1.20.1</code></a><br>
+        <a href="https://modrinth.com/mod/nemos-more-ladder-variants/versions?g=1.21&g=1.21.1"><code>1.21(.1)</code></a>, <a href="https://modrinth.com/mod/nemos-more-ladder-variants/versions?g=1.21.4&g=1.21.5&g=1.21.6&g=1.21.7&g=1.21.8&g=1.21.9&g=1.21.10"><code>1.21.4</code>~<code>1.21.10</code></a>
+      </td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Mod Loaders</strong></td>
+      <td><sub><img width="16" src="https://raw.githubusercontent.com/FabricMC/fabric/1.21.10/src/main/resources/assets/fabric/icon.png"></sub><a href=Language"https://fabricmc.net/use/installer/"><code>Fabric Loader</code></a></td>
+    </tr>
+  </tbody>
+  <thead>
+    <tr>
+      <td><strong>Requires</strong></td>
+      <td>
+        <a href="https://modrinth.com/mod/fabric-api"><sub><img width="16" src="https://raw.githubusercontent.com/FabricMC/fabric/1.21.10/src/main/resources/assets/fabric/icon.png"></sub><code>Fabric API</code></a><br>
+        <a href="https://modrinth.com/mod/more-stick-variants"><sub><img width="16" src="https://raw.githubusercontent.com/pnk2u/resources/main/ModProjects/More-Stick-Variants/pres/logo/logo_c.png"></sub><code>More Stick Variants</code></a>
+      </td>
+    </tr>
+  </thead>
+</table>
+<br>
 
-### ᴬ⃯ ᵦ⃔ Translations
+<a name="translations"></a>
+### <img height="24" align="left" src="https://raw.githubusercontent.com/pnk2u/resources/main/ModProjects/shared/pres/icon/translate.svg"> Translations
 
 Currently available in:
 - English
 - German
-- French (@Peperehobbits01 with [PR #2](../../pull/2), added in [`1.0.7`](../../#107))
+- Language (@[Peperehobbits01](/../../../../Peperehobbits01) with [PR #2](../../pull/2), added in [`1.0.7`](./CHANGELOG_history.md#1.0.7))
+- Ukrainian (@[StarmanMine142](/../../../../StarmanMine142) with [PR #4](../../pull/4), added in [`1.0.10`](./CHANGELOG_history.md#1.0.10))
 
-Want to help translate? Feel free to open a PR to the **default branch (`1.21(.1)`)**.
+> [!NOTE]
+> > Want to help translate? If you can, please open a PR to the **default branch** [`1.21(.1)`](../../tree/1.21(.1)).  
+> > Otherwise, simply send your translation via email (contact@pnku.de) or join the [Discord](https://discord.lieonlion.dev).
 
-### Changelog History
+<br>
 
+
+<img height="53" align="left" src="https://raw.githubusercontent.com/pnk2u/resources/main/ModProjects/shared/pres/icon/changelog.svg">  
+
+### Versions
+<a name="most-recent-version"></a>
 <!--CHANGELOG:START-->
-### 1.0.9:
-- `1.20.1`: 
-  - Fix broken Ladder recipes (all variants including the _**Oak** Ladder_ (vanilla))
-  - Fix _Ladder Variants_ neither being climbable nor properly mineable due to broken tag assignment
+<a name="1.0.9"></a>
+#### 1.0.9[*](#footnote-*):
+- `1.20.1`:
+    - Fix broken Ladder recipes (all variants including the _**Oak** Ladder_ (vanilla))
+    - Fix _Ladder Variants_ neither being climbable nor properly mineable due to broken tag assignment
 - Add proper _**Oak** Ladder_ (vanilla) recipe unlock on obtaining the _**Oak** Stick_ (vanilla) item
-### 1.0.8:
-- Fix `1.0.7`'s fabric loader compatibility (0.17.x) not including 0.17.0 itself
-### 1.0.7:
-- Fix incompatibility with 0.17.x versions of Fabric Loader
-- Reduced most textures file sizes by over 90% through better compression
-- Add French Translation (Thanks to [@Peperehobbits01](https://www.github.com/Peperehobbits01))
-- `1.21.9`: Update to 1.21.9
-### 1.0.5:
-- `1.21.4`: Add missing Pale Oak Ladder item model
-### 1.0.4:
-- `1.21.4`:
-    - Update to 1.21.4
-    - Add Pale Oak Ladder (from Nemoʼs Carpentry `1.5.3 - 1.21.4`)
-### 1.0.3:
-- Add a separate "Oak Ladder" recipe to prevent issues due to the base game's recipe getting overwritten by other mods
-- `1.21.2`, `1.21.3`: Update to 1.21.2, 1.21.3
-### 1.0.2:
-- `1.20.1`, `1.20.4`: Fix incorrect Java version dependency
-### 1.0.1:
-- Group ladder recipes in the recipe book
+
+<h2><sub><sub><sup><ins>Download 1.0.9 + 1.21(.1)</ins>:</sup>&#x200A;
+<a title="Download (Modrinth):&#10;Nemo’s More Ladder Variants 1.0.9 + 1.21(.1)" href="https://modrinth.com/mod/nemos-more-ladder-variants/version/Pd7WsDku">
+<img width=26 src="https://img.shields.io/badge/-%20-%230f91?style=flat&logo=modrinth"></a>
+<sup><img width=7 height=10 src="https://raw.githubusercontent.com/pnk2u/resources/main/ModProjects/shared/pres/icon/separator_v.svg"></sup>
+<a title="Download (Curseforge):&#10;Nemo’s More Ladder Variants 1.0.9 + 1.21(.1)" href="https://www.curseforge.com/minecraft/mc-mods/nemos-more-ladder-variants/files/7160993">
+<img width=26 src="https://img.shields.io/badge/--%23f062?style=flat&logo=curseforge"></a>
+</sub></sub></h2>
+
 <!--CHANGELOG:END-->
-> _`The section above is automatically updated with each new release and only includes already published releases.`_
+<a name="footnote-*"></a>
+> <strong>*</strong><sup>: Most recent version</sup>  
+> _`The version above is automatically updated with the newest release and only after it has been successfully published.`_
+
+<a name="changelog-history"></a>
+> [!TIP]
+> > Looking for changes of previous versions?  
+> > You can find them in the [changelog history](./CHANGELOG_history.md).
+
 ---
 #### Support/Contact
 - Suggestions? Questions? Bug reports?  
-  Feel free to [open an issue](https://github.com/pnk2u/More-Frame-Variants/issues)!  
+  Feel free to [open an issue](/../../issues)!  
   &nbsp;  
   You can also contact me via email at [contact@pnku.de](mailto:contact@pnku.de) or join the [Discord](https://dsc.lieonlion.dev) and contact me there.
