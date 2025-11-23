@@ -57,19 +57,17 @@ Currently available in:
 ### Versions
 <a name="most-recent-version"></a>
 <!--CHANGELOG:START-->
-<a name="1.0.9"></a>
-#### 1.0.9[*](#footnote-*):
-- `1.20.1`:
-    - Fix broken Ladder recipes (all variants including the _**Oak** Ladder_ (vanilla))
-    - Fix _Ladder Variants_ neither being climbable nor properly mineable due to broken tag assignment
-- Add proper _**Oak** Ladder_ (vanilla) recipe unlock on obtaining the _**Oak** Stick_ (vanilla) item
+<a name="1.0.10"></a>
+#### 1.0.10[*](#footnote-*):
+- Add Ukrainian translation (Thanks to @[StarmanMine142](https://www.github.com/StarmanMine142))
+- `1.21.4(-11)`: Update to <ins>1.21.11</ins>
 
-<h2><sub><sub><sup><ins>Download 1.0.9 + 1.21(.1)</ins>:</sup>&#x200A;
-<a title="Download (Modrinth):&#10;Nemo’s More Ladder Variants 1.0.9 + 1.21(.1)" href="https://modrinth.com/mod/nemos-more-ladder-variants/version/Pd7WsDku">
-<img width=26 src="https://img.shields.io/badge/-%20-%230f91?style=flat&logo=modrinth"></a>
+<h2><sub><sub><sup><ins>Download 1.0.10 + 1.21(.1)</ins>:</sup>&#x200A;
+<a title="Download (Modrinth):&#10;Nemoʼs More Ladder Variants 1.0.10 + 1.21(.1)" href="https://www.modrinth.com/mod/5fsOIs5O/version/jz9J6kcY">
+<img width=26 src="https://img.shields.io/badge/-%20-%23032a?style=flat&logo=modrinth"></a>
 <sup><img width=7 height=10 src="https://raw.githubusercontent.com/pnk2u/resources/main/ModProjects/shared/pres/icon/separator_v.svg"></sup>
-<a title="Download (Curseforge):&#10;Nemo’s More Ladder Variants 1.0.9 + 1.21(.1)" href="https://www.curseforge.com/minecraft/mc-mods/nemos-more-ladder-variants/files/7160993">
-<img width=26 src="https://img.shields.io/badge/--%23f062?style=flat&logo=curseforge"></a>
+<a title="Download (Curseforge):&#10;Nemoʼs More Ladder Variants 1.0.10 + 1.21(.1)" href="https://www.curseforge.com/minecraft/mc-mods/nemos-more-ladder-variants/files/7252302">
+<img width=26 src="https://img.shields.io/badge/--%23302a?style=flat&logo=curseforge"></a>
 </sub></sub></h2>
 
 <!--CHANGELOG:END-->
