@@ -59,16 +59,18 @@
 ### Versions
 <a name="most-recent-version"></a>
 <!--CHANGELOG:START-->
-<a name="1.0.10"></a>
-#### 1.0.10[*](#footnote-*):
-- Add Ukrainian translation (Thanks to @[StarmanMine142](https://www.github.com/StarmanMine142))
-- `1.21.4(-11)`: Update to <ins>1.21.11</ins>
+<a name="1.0.11"></a>
+#### 1.1.1[*](#footnote-*):
+- `26.1`: Update to <ins>26.1</ins>
 
-<h2><sub><sub><sup><ins>Download 1.0.10 + 1.20.1</ins>:</sup>&#x200A;
-<a title="Download (Modrinth):&#10;Nemoʼs More Ladder Variants 1.0.10 + 1.20.1" href="https://www.modrinth.com/mod/5fsOIs5O/version/g4jrBPjG">
+<br></br>
+<sub>License update to [`CC-BY-NC-SA-4.0`](https://creativecommons.org/licenses/by-nc-sa/4.0/) (previously [`MIT`](https://choosealicense.com/licenses/mit))</sub>
+
+<h2><sub><sub><sup><ins>Download 1.0.11 + 1.20.1</ins>:</sup>&#x200A;
+<a title="Download (Modrinth):&#10;Nemo's More Ladder Variants 1.0.11 + 1.20.1" href="https://www.modrinth.com/mod/5fsOIs5O/version/T876C1Pm">
 <img width=26 src="https://img.shields.io/badge/-%20-%23032a?style=flat&logo=modrinth"></a>
 <sup><img width=7 height=10 src="https://raw.githubusercontent.com/pnk2u/resources/main/ModProjects/shared/pres/icon/separator_v.svg"></sup>
-<a title="Download (Curseforge):&#10;Nemoʼs More Ladder Variants 1.0.10 + 1.20.1" href="https://www.curseforge.com/minecraft/mc-mods/nemos-more-ladder-variants/files/7252295">
+<a title="Download (Curseforge):&#10;1.0.11 + 1.20.1 - Nemo's More Ladder Variants" href="https://www.curseforge.com/minecraft/mc-mods/nemos-more-ladder-variants/files/7891920">
 <img width=26 src="https://img.shields.io/badge/--%23302a?style=flat&logo=curseforge"></a>
 </sub></sub></h2>
 
