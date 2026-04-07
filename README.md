@@ -2,7 +2,7 @@
 # <img height='48' align=right src="./src/main/resources/icon.png"> <p align="center">&emsp;&emsp;&emsp; Nemo’s More Ladder Variants <sub><a title="Nemo’s More Ladder Variants on Modrinth" href="https://www.modrinth.com/mod/nemos-more-ladder-variants"><img width="40" src="https://img.shields.io/badge/-%20-%230f91?style=flat&logo=modrinth"></a></sub> <a title="Nemo’s More Ladder Variants on Curseforge" href="https://www.curseforge.com/minecraft/mc-mods/nemos-more-ladder-variants"><sub><img width="40" src="https://img.shields.io/badge/--%23f062?style=flat&logo=curseforge"></sub></a> </p>
 > <img align=left height="153" src="https://raw.githubusercontent.com/pnk2u/resources/main/ModProjects/Nemos-More-Ladder-Variants/pres/logo/logo_c.png">  
 >  A simple mod adding wood variants for Minecraft's Ladder Block as a standalone version from the Ladder variants added by <a href="https://www.modrinth.com/mod/nemos-carpentry">Nemoʼs Carpentry</a>. <br><br><br><br>  
->  <details><summary><h5>Show in-game example image</h5></summary><br><img src="https://raw.githubusercontent.com/pnk2u/resources/main/ModProjects/Nemos-More-Ladder-Variants/pres/mr_desc_banner.png"><sup><br><!--CAPTION:PLACEHOLDER--></sup></details>  
+>  <!--<details><summary><h5>Show in-game example image</h5></summary><br><img src="https://raw.githubusercontent.com/pnk2u/resources/main/ModProjects/Nemos-More-Ladder-Variants/pres/mr_desc_banner.png"><sup><br>CAPTION:PLACEHOLDER</sup></details>--><br>  
 <br>  
 
 <a name="compatibility"></a>
@@ -14,7 +14,8 @@
       <td><strong>Minecraft</strong></td>
       <td>
         <a href="https://modrinth.com/mod/nemos-more-ladder-variants/versions?g=1.20.1"><code>1.20.1</code></a><br>
-        <a href="https://modrinth.com/mod/nemos-more-ladder-variants/versions?g=1.21&g=1.21.1"><code>1.21(.1)</code></a>, <a href="https://modrinth.com/mod/nemos-more-ladder-variants/versions?g=1.21.4&g=1.21.5&g=1.21.6&g=1.21.7&g=1.21.8&g=1.21.9&g=1.21.10"><code>1.21.4</code>~<code>1.21.10</code></a>
+        <a href="https://modrinth.com/mod/nemos-more-ladder-variants/versions?g=1.21&g=1.21.1"><code>1.21(.1)</code></a>, <a href="https://modrinth.com/mod/nemos-more-ladder-variants/versions?g=1.21.4&g=1.21.5&g=1.21.6&g=1.21.7&g=1.21.8&g=1.21.9&g=1.21.10&g=1.21.11"><code>1.21.4</code>~<code>1.21.11</code></a><br>
+        <a href="https://modrinth.com/mod/nemos-more-ladder-variants/versions?g=26.1"><code>26.1</code></a>
       </td>
     </tr>
   </thead>
@@ -39,11 +40,12 @@
 <a name="translations"></a>
 ### <img height="24" align="left" src="https://raw.githubusercontent.com/pnk2u/resources/main/ModProjects/shared/pres/icon/translate.svg"> Translations
 
-Currently available in:
-- English
-- German
-- Language (@[Peperehobbits01](/../../../../Peperehobbits01) with [PR #2](../../pull/2), added in [`1.0.7`](./CHANGELOG_history.md#1.0.7))
-- Ukrainian (@[StarmanMine142](/../../../../StarmanMine142) with [PR #4](../../pull/4), added in [`1.0.10`](./CHANGELOG_history.md#1.0.10))
+|Language|Translator|
+|--|--|
+|English||
+|German||
+|French|@[Peperehobbits01](/../../../../Peperehobbits01) with [PR #2](../../pull/2), added in [`1.0.7`](./CHANGELOG_history.md#1.0.7)|
+|Ukrainian|@[StarmanMine142](/../../../../StarmanMine142) with [PR #4](../../pull/4), added in [`1.0.10`](./CHANGELOG_history.md#1.0.10)|
 
 > [!NOTE]
 > > Want to help translate? If you can, please open a PR to the **default branch** [`1.21(.1)`](../../tree/1.21(.1)).  
