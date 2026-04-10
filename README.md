@@ -60,7 +60,7 @@
 <a name="most-recent-version"></a>
 <!--CHANGELOG:START-->
 <a name="1.0.11"></a>
-#### 1.1.1[*](#footnote-*):
+#### 1.0.11[*](#footnote-*):
 - `26.1`: Update to <ins>26.1</ins>
 
 <br></br>
